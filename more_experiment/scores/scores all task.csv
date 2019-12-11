@@ -1,0 +1,13 @@
+Type of model,accuracy,F1-score,loss
+BERT-classification-Hotels,0.9937,0.9912,0.0271
+BERT-classification-Shop&Tour,0.9860,0.9815,0.0610
+BERT-classification-Restaurant,0.9382,0.9661,0.2484
+BERT-sum-Hotels,0.9791,0.9713,0.3375
+BERT-sum-Shop&Tour,0.9703,0.9573,0.3451
+BERT-sum-Restaurant,0.9054,0.9482,0.3886
+BERT-NER-Hotels,0.9933,0.7796,0.0145
+BERT-NER-Shop&Tour,0.9997,0.9888,0.0037
+BERT-NER-Restaurant,0.9986,0.9839,0.0052
+SpaCy-5iter-500pretrain-Hotels,0.9901,0.9876,0.0005
+SpaCy-5iter-500pretrain-Restaurant,0.9475,0.9632,0.0006
+SpaCy-5iter-1000pretrain-Shop&Tour,0.9715,0.9612,0.0008

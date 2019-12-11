@@ -1,0 +1,7 @@
+Type of model,accuracy,eval_accuracy,F1-score,false_negatives,false_positives,loss,precision,recall,true_negatives,true_positives
+BERT-classification-Hotels,0.9937,0.9930,0.9912,5,24,0.0271,0.9855,0.9969,2503,1642
+BERT-classification-Shop&Tour,0.9860,0.9866,0.9815,20,26,0.0610,0.9791,0.9838,2173,1222
+BERT-classification-Restaurant,0.9382,0.9514,0.9661,123,121,0.2484,0.9635,0.9687,1190,3196
+BERT-sum-Hotels,0.9791,0.9770,0.9713,18,78,0.3375,0.9543,0.9890,2449,1629
+BERT-sum-Shop&Tour,0.9703,0.9686,0.9573,29,79,0.3451,0.9388,0.9766,2120,1213
+BERT-sum-Restaurant,0.9054,0.9255,0.9482,158,185,0.3886,0.9443,0.9521,1126,3141

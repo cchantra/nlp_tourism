@@ -1,0 +1,4 @@
+dataset,original,cleaning   ,train,test,type_review_train,type_review_test
+Restaurant,"18,700","10,010","5,399","4,611","location(0):1,526 & food(1):3,873","location(0):1,312 & food(1):3,299"
+Hotels,"11,859","10,447","6,272","4,175","location(0):3,300 & service(1):2,972","location(0):2,528 & service(1):1,647"
+Shopping&Tourism,"12,253","9,162","5,720","3,442","nature-travel(0):2,958 & shopping-travel(1):2,762","nature-travel(0):2,200 & shopping-travel(1):1,242"

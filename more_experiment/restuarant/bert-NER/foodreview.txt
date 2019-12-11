@@ -1,0 +1,566 @@
+delicious
+ambrosial
+palatable
+yummy
+yumy
+luscious
+dainty
+distasteful
+unpalatable
+dishes
+aci bowls
+alfredo
+arancini
+baba Ghanoush
+baby Back Ribs
+bagels
+baguette
+bak kut teh
+bananas foster
+bangers and mash
+beef bourguignon
+beef cheeks
+bento
+bibimbap
+bolognese
+bouillabaisse
+breakfast burrito
+breakfast sandwich
+caramel machiato
+thai cuisine
+burrito
+calamari
+california roll
+cannelloni
+carbonara
+carrot cake
+cashew chicken
+catfish
+caviar
+cesar salad
+ceviche
+cheeseburger
+cheesecake
+chicken and waffles
+chicken parmesan
+chicken wings
+chili
+chili crab
+chilli chicken
+chowder
+churrasco
+clam chowder
+clams
+club sandwich
+cobb salad
+cockle
+cod
+corned beef
+couscous
+crab
+crab cake
+crab cegs
+crawfish
+creme brulee
+crepes
+croque madame
+croque monsieur
+croquettes
+crostini
+cucumber Salad
+cupcakes
+curry
+custard Bun
+deep dish pizza
+dim sum
+doner kebab
+donuts
+duck confit
+dumplings
+eclairs
+eggplant
+eggs Benedict
+escargot
+fajitas
+falafel
+fattoush
+fideua
+filet mignon
+fish & chips
+fish taco
+focaccia
+fondue
+french toast
+fried pickles
+frog legs
+frozen yogurt
+garlic prawns
+gelato
+green curry
+grilled cheese
+gyros
+halloumi
+hot dog
+hot pot
+hummus
+ice cream
+jambalaya
+japanese curry
+juice & smoothies
+kobe beef
+korean fried chicken
+laksa
+lamb chops
+lasagne
+lobster
+lobster roll
+mac and cheese
+macarons
+macaroons
+mandarin duck
+meatballs
+meatloaf
+meringue
+minestrone
+moussaka
+mussels
+nachos
+noodle
+okonomiyaki & takoyaki
+omelette
+osso buco
+oyster
+pad thai
+paella
+pancakes
+pasta
+pastrami Sandwich
+patatas bravas
+peking duck
+pho
+polenta
+porchetta
+pork cheeks
+poutine
+pretzel
+profiteroles
+prosciutto
+pulled pork sandwich
+quail
+queso
+quiche
+qamen
+red Beans and rice
+red curry
+reuben sandwich
+ribs
+risotto
+roast beef
+roe
+salad
+salmon
+saltimbocca
+sandwiches
+scallops
+schnitzel
+seafood paella
+shawarma
+shrimp
+shrimp salad
+soup dumplings
+souvlaki
+steak frites
+steak tartare
+suckling pig
+sukiyaki & shabu shabu
+surf and turf
+t bone steak
+tacos
+tagliatelle
+tandoori chicken
+tapas
+tataki
+tempura
+tikka masala
+tilapia
+tiramisu
+tonkatsu
+tortellini
+tortelloni
+tortillas
+tuna
+turkey burger
+udon & soba
+unagi & dojo
+veggie burger
+waffles
+waffles & crepes
+wings
+yakiniku
+yakitori
+yellow curry
+meat
+gyoza
+ramen
+spicy noodle salad
+spicy vermicelli salad
+spicy barbecued beef salad
+spicy seafood salad
+green papaya salad
+crispy catfish salad with green mango
+fried crispy catfish served with spicy mango salad
+chinese sausage salad
+spicy deep fried catfish salad
+stuffed cucumber soup
+jelly noodle soup
+minced pork and soya bean curd soup
+sour soup with shrimp and water mimosa
+chicken green curry
+green curry chicken in coconut milk
+sour soup made of tamarind paste
+massa man curry
+yellow curry with beef or chicken
+clear soup
+stuffed squid soup
+pork curry with water spinach
+spicy curry
+bamboo shoot soup
+spicy vegetable and prawn soup
+northern style pork curry with garlic
+northern mixed curry
+red curry with roast duck
+fried noodle with pork
+kale fried in oyster sauce
+stir fried kaled with sun dried salted fish
+crispy pork with kale
+stir fried vegetable
+quick fried water spinach seasoned with chili and soy sauce
+spicy catfish
+thai fried noodles
+fried chicken with asparagus
+salted pork with chili & basil leaves
+spicy fried chicken with basil leaves
+sautéed mixed vegetables in oyster sauce
+fried beef with oyster sauce
+spicy fried
+stir fried soft shelled crab in curry powder
+fried noodle with pork and broccoli
+fried noodle in minced beef sauce
+dried fish maw soup
+noodle soup
+noodles with ground beef
+noodles fried with spicy
+thai fried noodle
+pad thai
+salted eggs
+minced pork omelet
+poached egg garnished with seafood
+stuffed omelet
+boiled egg fried with tamarind sauce
+steamed egg
+boiled egg
+hard-boiled egg
+medium-boiled egg
+soft-boiled egg
+omelet
+omelette
+fried egg
+sunny up
+over easy
+over medium
+over hard
+scrambled egg
+poached egg
+egg benedict
+frittata
+stuffed squid
+savoury crab meat
+curried fish cake
+steamed curried fish
+crab and glass noodles in casserole
+clay pot
+fried crab in yellow curry
+stir-fried crab curry
+mussels and mint leaves in casserole
+iced dessert
+mango and sticky rice
+durian and sticky rice
+mock pomegranate seeds
+dumplings in coconut cream
+taro balls in coconut cream
+mock jack fruit seeds
+gold threads
+cotton wool cake
+chinese vegetable stew
+clear soup with bean curd and minced pork
+clear soup with seaweed and minced pork
+spicy soup
+tom yam kung
+hot and sour seafood soup
+chicken in coconut milk and galangal
+deep-fried shrimp cakes
+special fish cakes
+stir-fried shrimp with garlic
+fried mackerel with shrimp paste sauce
+fermented fish spicy dip
+green chili dip
+spicy meat and tomato dip
+roasted chili
+roasted chili paste
+salted sun dried beef
+spicy sliced beef salad
+grilled beef
+beef satay
+deep fried marinated beef
+maki zushi
+natto
+kaki furai
+motsunabe
+hijiki
+japanese potato salad
+koyadofu
+yuba
+senbei
+sekihan
+fugu
+teriyaki
+yakisoba pan
+unagi
+tempura
+kaiseki
+shabu
+soba
+okonomiyaki
+tonkatsu
+yaki tori
+sashimi
+salmon sashimi
+salmon
+Lasagna
+ossobuco alla milanese
+gelato
+panzanella
+focaccia
+spaghetti alla carbonara
+cicchetti
+caponata
+burrata
+sweet and sour pork
+kung pao chicken
+ma po tofu
+wontons
+dumplings
+chow mein
+peking roasted duck
+spring rolls
+apple pie
+the hamburger
+clam chowder
+bagel and lox
+deep dish pizza
+texas barbecue
+tacos
+thanksgiving
+hominy grits
+bagels
+lox
+chilaquiles
+pozole
+tacos al pastor
+tostadas
+chiles en nogada
+enchiladas
+mole
+guacamole
+tamales
+bbq buffet
+beer
+white wine
+birthday cake
+breakfast
+afghani food
+african food
+albanian food
+algerian food
+american food
+arabic food
+argentinean food
+asian food
+australian food
+bangladeshi food
+barbecue food
+basque food
+belgian food
+brazilian food
+brew pub
+british
+burmese
+cajun & creole food
+cambodian food
+canadian food
+cantonese food
+caribbean food
+caucasian food
+central american food
+central european food
+central italian food
+colombian food
+contemporary
+cuban food
+danish food
+deli food
+diner food
+dutch food
+eastern european food
+ecuadorean food
+egyptian food
+ethiopian food
+european food
+Fast Food
+french food
+fusion
+gastropub
+georgian food
+german food
+greek food
+guatemalan food
+hawaiian food
+healthy
+hong kong food
+hubei food
+imperial chinese food
+indian food
+chinese food
+indonisian food
+international food
+irish food
+israeli food
+italian food
+jamaican food
+japanese food
+korean food
+latin food
+lebanese food
+malaysian food
+mediterranean food
+mexican food
+middle eastern food
+mongolian food
+moroccan food
+native american food
+nepali food
+new zealand food
+northnastern chinese food
+northern italian food
+northWestern chinese food
+pakistani food
+persian food
+peruvian food
+polynesian food
+portuguese food
+russian food
+scandinavian food
+scottish food
+shanghai food
+sicilian food
+singaporean food
+soups
+south american food
+southern italian food
+southwestern food
+spanish food
+sri lankan food
+srilankan food
+steakhouse
+swedish food
+swiss food
+szechuan food
+taiwanese food
+tibetan food
+turkish food
+tuscan food
+vietnamese food
+yunnan food
+yunnan
+desserts
+finger food
+raw meats
+beverages
+fast food
+dinner
+good bakery
+nice bakery
+good cafe
+nice cafe
+vegetarian
+english foods
+english food
+lunchtime
+lunch
+apanese style food
+tasty
+cocktails
+pizzas
+fried chicken
+espresso
+foodies
+food excellent
+value food
+excellent food
+international buffet
+buffet
+yum
+poor quality food
+quality food
+brilliant food
+amazing food
+best food 
+cappuccino
+good food
+nice food
+love food 
+love the food
+basic food
+great meal
+oysters
+fruit smoothies
+mango
+ordered
+great food
+cocktail
+fresh food
+best beef
+incredible food
+vegetarians
+taste
+food is excellent
+steak
+good mexican
+chinese kitchen
+delicieus
+food is amazing
+worst food
+cuisine
+singapore food
+great comfort food
+malaysia food
+eat
+best fish
+pizzeria
+best bbq
+yummi
+best beers
+bbq
+superb food
+tasteless food
+meals
+vegan food
+waffle
+icexream
+icecream
+oasis
+asian food
+food service
+lovely food
+healthy food
+buffe

@@ -1,0 +1,4 @@
+type_of_model,F1_Score,Validation_Loss,Validation_Accuracy
+BERT-NER-Hotels,0.7796,0.0145,0.9933
+BERT-NER-Shop&Tour,0.9888,0.0037,0.9997
+BERT-NER-Restaurant,0.9839,0.0052,0.9986
